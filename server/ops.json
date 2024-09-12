@@ -1,0 +1,14 @@
+[
+  {
+    "uuid": "6f5c664c-2ad2-3c65-8af8-56b53df8e8ed",
+    "name": "pancake",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "a29a34e8-fb0c-3288-98e9-aafdba8b021f",
+    "name": "dummy",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
